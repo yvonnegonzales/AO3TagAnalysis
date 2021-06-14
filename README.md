@@ -1,6 +1,8 @@
 # AO3TextAnalysis
 # Fandom Stats and Genre Writing
 
+Note: This project is very very unfinished. As you can see, the bottom section is just me playing around with text parsing and tokenization. It is not meant to be run as a complete project.
+
 #### Yvonne Gonzales
 #### Course: Digital Humanities 100 Summer 2021
 #### Instructor: Adam Anderson
