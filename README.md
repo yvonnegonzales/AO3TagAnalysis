@@ -2,8 +2,10 @@
 # Fandom Stats and Genre Writing
 
 #### Yvonne Gonzales
-#### Course: Digital Humanities 100 Summer 2021
-#### Instructor: Adam Anderson
+#### Course: Digital Humanities 100 and 101 Summer 2021
+#### Instructor: Adam Anderson and Brooks Jessup
+
+![Project Poster](https://github.com/yvonnegonzales/AO3TagAnalysis/blob/main/Poster%20-%20Ao3%20Analysis.pdf)
 
 Digital Humanities project analyzing the language of fanfiction, pulled from the top 3.5k works on Archive of Our Own. 
 
