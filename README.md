@@ -8,6 +8,9 @@
 
 I am a senior at UC Berkeley researching fandom and fanfiction as literature. My focus is on parasocial relationships and how they work in fan communities, and how those manifest in fan works and catharsis.
 
+## Video Presentation
+https://drive.google.com/file/d/1LV4XhOkyXryh0Oossbn9KFR0gR0-VrP1/view?usp=sharing
+
 ## Abstract
 
 > In this project, I investigate what makes fanfiction unique as a genre, but more specifically, I compare how different fandoms (communities surrounding specific medias) may write or tag their works differently. I used data from the website *Archive of Our Own* to do so. Relevant findings were primarily in relationship to the RPF (real person fic) fandom for BTS. In comparisons, the BTS fandoms wrote and read explicit sexual works in higher volume than any other fandom, to a significant degree. Overall, the sorting of tags showed that fanfiction as a genre places an emphasis on emotion based tagging and sorting. Tags like "Fluff," "Angst," and "Hurt/Comfort," topped the frequency charts for tags in both popular works and specific fandoms. In fanfiction, people don't search for specific genres but rather for feelings. The *Archive of Our Own* categorization system also includes a section to select the genders of the characters in main relationships. While there were tons of works under the M/M (male/male relationship) tag, very few were under the F/F (female/female relationship) tag. The discrepancies and variation in the categories section requires further humanities based research to explain. My focus moving forward will be in RPF based fandoms and modern parasocial relationships.
