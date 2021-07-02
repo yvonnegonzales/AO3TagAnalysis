@@ -9,6 +9,8 @@
 I am a senior at UC Berkeley researching fandom and fanfiction as literature. My focus is on parasocial relationships and how they work in fan communities, and how those manifest in fan works and catharsis.
 
 ## Video Presentation
+
+Watch me present the findings in video format!
 https://drive.google.com/file/d/1LV4XhOkyXryh0Oossbn9KFR0gR0-VrP1/view?usp=sharing
 
 ## Abstract
